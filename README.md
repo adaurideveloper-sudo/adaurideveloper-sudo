@@ -30,8 +30,8 @@ Atualmente, estou mergulhado no ecossistema de desenvolvimento, focando em enten
 ### 📊 Meu Progresso no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[adaurideveloper-sudo]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[adaurideveloper-sudo]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adaurideveloper-sudo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaurideveloper-sudo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
