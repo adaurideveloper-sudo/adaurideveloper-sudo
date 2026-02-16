@@ -19,8 +19,8 @@ Atualmente, estou mergulhado no ecossistema de desenvolvimento, focando em enten
 
 ### 🧪 O Laboratório (Projetos em Destaque)
 
-* **[Nome do Projeto Java]**: Uma API para [ex: gerenciamento de estoque] onde apliquei conceitos de Clean Code.
-* **[Nome do Projeto Go]**: Meu primeiro contato com performance, criando um [ex: encurtador de URLs].
+* **[TODO]**: Uma API para [ex: gerenciamento de estoque] onde apliquei conceitos de Clean Code.
+* **[TODO]**: Meu primeiro contato com performance, criando um [ex: encurtador de URLs].
 * **[Nome do Projeto Bun]**: Testando a velocidade do Bun criando uma API ultra-rápida.
 
 *(Dica: Coloque links para os seus repositórios reais aqui!)*
