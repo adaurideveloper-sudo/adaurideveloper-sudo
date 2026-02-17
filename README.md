@@ -1,4 +1,4 @@
-# 👨‍💻 [Adauri Antunes de Campos] | Em busca da primeira oportunidade Tech
+# 👨‍💻 Adauri Antunes de Campos | Em busca da primeira oportunidade Tech
 
 > "Construindo uma base sólida em Backend e Performance, um commit de cada vez."
 
